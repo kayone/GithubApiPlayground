@@ -4,3 +4,4 @@ home: https://mullvad.net
 installMethod: NSIS
 installers:
 - location: https://mullvad.net/en/download/latest/windows/
+  sha256: a033424e348594322cfc105982d438c0ab0def2656aaf92a9c3dd5495160ea5b
