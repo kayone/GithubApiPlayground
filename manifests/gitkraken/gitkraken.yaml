@@ -1,9 +1,11 @@
 id: gitkraken
 name: GitKraken
-version: 3.4.0
+version: 3.5.1
 home: https://gitkraken.com
 installMethod: Squirrel
 installers:
 - location: https://release.gitkraken.com/win32/GitKrakenSetup.exe
+  sha256: bfb88245c6135a20942f1b60af1d6e08ea656cbd97f554275b3a16e036797d06
 - location: https://release.gitkraken.com/win64/GitKrakenSetup.exe
+  sha256: 5bb11db925177cc6f1dd1f8facb7b74948bb40afdf1e91a43eb564dde57a3b0f
   architecture: x64
