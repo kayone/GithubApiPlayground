@@ -1,7 +1,8 @@
 id: eithermouse
 name: EitherMouse
 version: 0.7
-home: http://www.eithermouse.com
+home: https://www.eithermouse.com/
 installMethod: Custom
 installers:
 - location: https://www.eithermouse.com/EitherMouse Setup.exe
+  sha256: 476a9373d80d718103afa310e0e9fbefb78e754517fe1d1ae55a727d6340b6e1
