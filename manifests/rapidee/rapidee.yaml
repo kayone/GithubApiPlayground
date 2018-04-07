@@ -5,3 +5,4 @@ home: https://www.rapidee.com
 installMethod: Inno
 installers:
 - location: https://www.rapidee.com/download/RapidEE_setup.exe
+  sha256: dc0b5bc6945786b77d72b6fcb195ea3da6daa640f4251bcd4de3e4e3e19906f9
