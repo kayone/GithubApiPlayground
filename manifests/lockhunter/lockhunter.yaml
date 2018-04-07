@@ -5,3 +5,4 @@ home: https://lockhunter.com
 installMethod: Inno
 installers:
 - location: https://lockhunter.com/exe/lockhuntersetup_3-2-3.exe
+  sha256: 59e7051cb079be49ac2bb4dd44cbdb6d4e11b6466d779465c7d1a3ca59272663
