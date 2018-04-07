@@ -1,7 +1,8 @@
 id: slack
 name: Slack
-version: 3.1.0
+version: 3.1.1
 home: https://slack.com
 installMethod: Squirrel
 installers:
 - location: https://slack.com/ssb/download-win
+  sha256: 03d1076d3b0d41c941a51a582843b0ed71be9b75c946df7091a474c70557d1c7
