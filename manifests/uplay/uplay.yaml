@@ -1,7 +1,8 @@
 id: uplay
 name: Uplay
+version: 55.0.5644.0
 home: https://uplay.ubi.com/
-version: 51.2.5599.0
 installMethod: NSIS
 installers:
 - location: https://ubistatic3-a.akamaihd.net/orbit/launcher_installer/UplayInstaller.exe
+  sha256: 24a75ffcee24286ef9fb85bb71614858dc4e2266f633dc8829f6af6eb70195fb
