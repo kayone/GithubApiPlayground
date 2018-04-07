@@ -1,7 +1,8 @@
 id: keybase
 name: Keybase
-version: 1.0.45.1
+version: 1.0.47.19
 home: https://keybase.io
 installMethod: Wix
 installers:
 - location: https://prerelease.keybase.io/keybase_setup_386.exe
+  sha256: 90e4ab31ab2a93bf4f3dfa90a89c24bd23adfed331545c0606ce459a394fe3ff
