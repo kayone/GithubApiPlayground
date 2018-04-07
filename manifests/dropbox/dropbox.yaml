@@ -7,3 +7,4 @@ args:
   silent: /S
 installers:
 - location: https://www.dropbox.com/download?type=full&plat=win
+  sha256: 83f29a4908c738e74bdfcde93917f6b4040df8ea3e56a880f145a215d2ef24ef
