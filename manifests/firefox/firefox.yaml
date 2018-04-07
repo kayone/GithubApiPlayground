@@ -1,11 +1,8 @@
 id: firefox
-name: Mozilla Firefox
-home: https://www.mozilla.org/firefox/
-installMethod: Custom
-args: {
-  silent: -ms
-}
+name: Firefox
+version: 4.42
+home: https://mozilla.org/
+installMethod: NSIS
 installers:
-- location: https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=en-US
-- location: https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US
-  architecture: x64
+- location: https://download.mozilla.org/?product=thunderbird-latest&os=win&lang=en-US
+  sha256: 0c42a8d13a60eabb812a35290458217beb1e7ae77dba29e8667caeca7b633935
