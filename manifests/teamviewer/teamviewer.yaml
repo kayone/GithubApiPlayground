@@ -4,3 +4,4 @@ home: https://teamviewer.com
 installMethod: NSIS
 installers:
 - location: https://download.teamviewer.com/download/TeamViewer_Setup.exe
+  sha256: f60062cf21ed42ba0adf64a296f124074ef4ad92b6b58e2f488c4b028a286bf4
