@@ -1,6 +1,6 @@
 id: defraggler
 name: Defraggler
-version: 1.0.0.0
+version: 221
 home: https://www.ccleaner.com/defraggler/
 installMethod: NSIS
 installers:
