@@ -1,0 +1,11 @@
+id: sublime-text
+name: Sublime-Text-Dev
+version: 3161
+home: https://sublimetext.com/3
+installMethod: Inno
+installers:
+- location: https://download.sublimetext.com/Sublime Text Build 3161 Setup.exe
+  sha256: eb805ebbc5d5ac66767879643040d45c0c0ae4274f9abb9cabb5426335cc78a6
+- location: https://download.sublimetext.com/Sublime Text Build 3161 x64 Setup.exe
+  sha256: dacf1a969e199ab8155da0b952446fec243230d728df975fd8cacf22522d0593
+  architecture: x64
