@@ -1,9 +1,11 @@
 id: brave
 name: Brave
-version: 0.21.18
+version: 0.22.13
 home: https://brave.com
 installMethod: Squirrel
 installers:
 - location: https://laptop-updates.brave.com/latest/winia32
+  sha256: b580aabbe04567378afe7b5d30cb7065dd1e17fe573a9a878aa330d0098d8f3a
 - location: https://laptop-updates.brave.com/latest/winx64
+  sha256: cc295d2e41b1bf865bf01395f214a8f6285ca816394c37d1766229ba1670f5eb
   architecture: x64
