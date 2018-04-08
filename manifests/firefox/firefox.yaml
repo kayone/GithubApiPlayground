@@ -1,11 +1,11 @@
 id: firefox
-name: Mozilla Firefox
-home: https://www.mozilla.org/firefox/
-installMethod: Custom
-args: {
-  silent: -ms
-}
+name: Firefox
+version: 18.01
+home: https://mozilla.org/
+installMethod: NSIS
 installers:
-- location: https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=en-US
-- location: https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US
+- location: https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=win&lang=en-US
+  sha256: 5e9a08aa4ab435977e68df8d22b45d41bbe7245dbfa8d52ad14c9d3a16a78777
+- location: https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=win64&lang=en-US
+  sha256: 3ed02c5f7d35a04ac35245d40d96c6af08dc24909d356578407844aa98e27d0a
   architecture: x64
