@@ -1,0 +1,5 @@
+id: azure-cli
+name: Azure Cli
+installMethod: MSI
+installers:
+- location: https://aka.ms/installazurecliwindows
