@@ -1,0 +1,9 @@
+id: onlyoffice-desktopeditors
+name: Onlyoffice-Desktopeditors
+version: 4.8.7.392
+home: https://onlyoffice.com/
+installMethod: Inno
+installers:
+- location: http://download.onlyoffice.com/install/desktop/editors/windows/distrib/onlyoffice/DesktopEditors_x86.exe
+- location: http://download.onlyoffice.com/install/desktop/editors/windows/distrib/onlyoffice/DesktopEditors_x64.exe
+  architecture: x64
