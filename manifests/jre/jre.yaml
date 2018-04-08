@@ -1,0 +1,13 @@
+id: jre
+name: Jre
+version: 4555
+home: https://oracle.com/
+installMethod: Custom
+args:
+  silent: /s
+installers:
+- location: https://javadl.oracle.com/webapps/download/AutoDL?BundleId=230540_2f38c3b165be4555a1fa6e98c45e0808
+  sha256: 9d4ab1c5eff210fd165a1aca33734da82c6bac9437bd8f20637e68460f3e9008
+- location: https://javadl.oracle.com/webapps/download/AutoDL?BundleId=230542_2f38c3b165be4555a1fa6e98c45e0808
+  sha256: 59c02eb80acfaeeaf3728c3841440c68ea9e3b4d5e735a7a863f6e2492760b5d
+  architecture: x64
