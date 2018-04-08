@@ -1,0 +1,6 @@
+id: classic-shell
+name: Classic Shell
+version: 4.3.1
+installMethod: Custom
+installers:
+- location: http://app.oldfoss.com:81/download/Classic-Shell/ClassicShellSetup_4_3_1.exe
