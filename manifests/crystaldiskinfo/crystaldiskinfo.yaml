@@ -1,0 +1,7 @@
+id: crystaldiskinfo
+name: CrystalDiskInfo
+version: 6924
+installMethod: Inno
+installers:
+- location: http://osdn.dl.osdn.jp/crystaldiskinfo/69241/CrystalDiskInfo7_6_0.exe
+  sha256: 7245ae12858b28cdd4f95e018409db79616b8580b1c59c5d75e96abee68ceaf3
