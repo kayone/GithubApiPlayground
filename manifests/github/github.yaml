@@ -4,3 +4,4 @@ version: 12.0.40629.0
 installMethod: NSIS
 installers:
 - location: https://github-windows.s3.amazonaws.com/GitHubSetup.exe
+  sha256: 80a132b47c541e8564f1b455b94f685f4d2bc8ea1c52e5b331e07886aedb1641
