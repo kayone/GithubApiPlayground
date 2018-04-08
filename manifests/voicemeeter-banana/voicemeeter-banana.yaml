@@ -1,0 +1,6 @@
+id: voicemeeter-banana
+name: Voicemeeter-Banana
+home: https://jcedeveloppement.com/
+installMethod: Custom
+installers:
+- location: https://vbaudio.jcedeveloppement.com/Download_CABLE/VoicemeeterProSetup.exe
