@@ -3,6 +3,4 @@ name: AWS Command Line Interface
 home: https://aws.amazon.com/cli/
 installMethod: MSI
 installers:
-- location: https://s3.amazonaws.com/aws-cli/AWSCLI32.msi
-- location: https://s3.amazonaws.com/aws-cli/AWSCLI64.msi
-  architecture: x64
+- location: https://aka.ms/installazurecliwindows
