@@ -1,0 +1,11 @@
+id: python2-yaml
+name: Python2-Yaml
+version: 3.12
+home: https://pyyaml.org/
+installMethod: Custom
+installers:
+- location: https://pyyaml.org/download/pyyaml/PyYAML-3.12.win32-py2.7.exe
+  sha256: 5f84523c076ad14ff5e6c037fe1c89a7f73a3e04cf0377cb4d017014976433f3
+- location: https://pyyaml.org/download/pyyaml/PyYAML-3.12.win-amd64-py2.7.exe
+  sha256: ca233c64c6e40eaa6c66ef97058cdc80e8d0157a443655baa1b2966e812807ca
+  architecture: x64
