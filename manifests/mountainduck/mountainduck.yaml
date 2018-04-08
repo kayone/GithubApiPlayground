@@ -1,0 +1,11 @@
+id: mountainduck
+name: Mountainduck
+version: 2.3.3.9245
+home: https://mountainduck.io/
+installMethod: MSI
+installers:
+- location: https://dist.mountainduck.io/Mountain Duck Installer-2.3.3.9245.msi
+  sha256: af5401dd8150daa7d299831abb1c0c82f665bcbe2e30a503f18805c1cc57ea5c
+- location: https://dist.mountainduck.io/Mountain Duck Installer-2.3.3.9245.msi
+  sha256: af5401dd8150daa7d299831abb1c0c82f665bcbe2e30a503f18805c1cc57ea5c
+  architecture: x64
