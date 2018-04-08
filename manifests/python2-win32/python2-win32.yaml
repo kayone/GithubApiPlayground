@@ -1,0 +1,11 @@
+id: python2-win32
+name: Python2-Win32
+version: 2.7
+repo: https://github.com/mhammond/pywin32
+installMethod: Custom
+installers:
+- location: https://github.com/mhammond/pywin32/releases/download/b223/pywin32-223.win32-py2.7.exe
+  sha256: 002ffc29ce73f5f1065cfe60b1d80d66d6d3da9c872f2cd80bd1215a91705670
+- location: https://github.com/mhammond/pywin32/releases/download/b223/pywin32-223.win-amd64-py2.7.exe
+  sha256: 6a30a40b964698ddf903d0ed2c2a1f3ac169e4ce084c591e69b9c2faae07dd47
+  architecture: x64
