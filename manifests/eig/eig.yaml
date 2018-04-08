@@ -1,0 +1,12 @@
+id: eig
+name: Eig
+version: 1.0.4.0
+home: https://evilinsult.com/
+repo: https://github.com/EvilInsultGenerator/c-sharp-desktop
+licence: The Unlicense
+installMethod: Custom
+args:
+  silent: /passive /norestart
+installers:
+- location: https://github.com/EvilInsultGenerator/c-sharp-desktop/releases/download/v1.0.4.0/EvilInsultGenerator_Setup.exe
+  sha256: c13851764165702e88cf67d8c193c857a29881cce4380e70cdaf93da02605043
