@@ -1,0 +1,7 @@
+id: gpg4win
+name: Gpg4win
+version: 3.0.3.41709
+home: https://gpg4win.org/
+installMethod: NSIS
+installers:
+- location: https://files.gpg4win.org/gpg4win-latest.exe
