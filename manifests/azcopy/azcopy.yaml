@@ -1,0 +1,5 @@
+id: azcopy
+name: Azcopy
+installMethod: MSI
+installers:
+- location: https://aka.ms/downloadazcopy
