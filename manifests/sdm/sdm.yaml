@@ -1,0 +1,6 @@
+id: sdm
+name: SDM
+home: https://onthehub.com/
+installMethod: MSI
+installers:
+- location: https://e5.onthehub.com/Static/Installers/SDM_EN.msi
