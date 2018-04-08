@@ -1,8 +1,7 @@
 id: bleachbit
 name: BleachBit
 version: 2.0
-home: https://www.bleachbit.org/
-repo: https://sourceforge.net/projects/bleachbit/
+home: https://bleachbit.org/
 installMethod: NSIS
 installers:
 - location: https://download.bleachbit.org/BleachBit-2.0-setup.exe
