@@ -1,8 +1,8 @@
 id: signal
 name: Signal
-version: 1.6.0
+version: 6.1
 home: https://signal.org
 installMethod: NSIS
 installers:
-- location: https://updates.signal.org/desktop/signal-desktop-win-1.6.0.exe
-  sha256: 055d81d1bd497b86edfb31e29ff393298f0f3380cc7e482fe3fc23809d49fa40
+- location: https://updates.signal.org/desktop/signal-desktop-win-1.6.1.exe
+  sha256: 30bdc72e11cb847ae75832fb9012f41789e08c52cc8438f4fa65a0965e11ba23
