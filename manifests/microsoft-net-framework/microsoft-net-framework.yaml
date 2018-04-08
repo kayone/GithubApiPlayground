@@ -1,0 +1,7 @@
+id: microsoft-net-framework
+name: Microsoft NET Framework
+version: 4033
+installMethod: Custom
+installers:
+- location: https://download.microsoft.com/download/8/E/2/8E2BDDE7-F06E-44CC-A145-56C6B9BBE5DD/NDP471-KB4033344-Web.exe
+  sha256: 65a7cb8fd1c7c529c40345b4746818f8947be736aa105007dfcc57b05897ed62
