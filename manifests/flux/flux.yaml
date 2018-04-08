@@ -4,3 +4,4 @@ home: https://justgetflux.com
 installMethod: NSIS
 installers:
 - location: https://justgetflux.com/flux-setup.exe
+  sha256: 79fc802d9225d98ee15a288393bb2d4708575315b9edad33dbfcf29d1af578b1
