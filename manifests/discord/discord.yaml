@@ -4,5 +4,4 @@ version: 0.0.300
 home: https://discordapp.com
 installMethod: Squirrel
 installers:
-  minWindowsVersion: 6.1
 - location: https://discordapp.com/api/download?platform=win
