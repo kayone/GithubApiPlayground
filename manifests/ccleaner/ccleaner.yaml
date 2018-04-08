@@ -1,6 +1,6 @@
 id: ccleaner
 name: CCleaner
-version: 5.41.129.6446
+version: 541
 home: https://ccleaner.com
 installMethod: NSIS
 installers:
