@@ -7,3 +7,4 @@ args:
   silent: /silent /noreboot
 installers:
 - location: https://downloadplugins.citrix.com/Windows/CitrixReceiver.exe
+  sha256: 9edee35936ec7acc3db4bd57fa8dcf8e9ed67afd525e7f6f0803bcac2a192edf
