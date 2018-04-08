@@ -4,3 +4,4 @@ home: https://anydesk.com
 installMethod: MSI
 installers:
 - location: https://download.anydesk.com/AnyDesk.msi
+  sha256: 993b1f73df2e76a7287e5faa7770d61a8215582fa8c5d878ea7ecb176cc8b6c1
