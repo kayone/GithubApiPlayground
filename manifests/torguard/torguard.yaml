@@ -1,5 +1,5 @@
 id: torguard
-name: Torguard
+name: TorGuard
 home: https://torguard.biz/
 installMethod: NSIS
 installers:
