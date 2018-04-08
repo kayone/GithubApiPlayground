@@ -1,0 +1,7 @@
+id: innosetup
+name: Innosetup
+version: 5.5.9
+home: http://www.jrsoftware.org/
+installMethod: Inno
+installers:
+- location: http://www.jrsoftware.org/download.php/is-unicode.exe
