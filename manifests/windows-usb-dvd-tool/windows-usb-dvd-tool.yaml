@@ -1,0 +1,9 @@
+id: windows-usb-dvd-tool
+name: Windows-Usb-Dvd-Tool
+version: 408
+installMethod: Custom
+args:
+  silent: /Q /C:msiexec /q /i Wudt.msi
+installers:
+- location: https://download.microsoft.com/download/C/4/8/C48F6E20-FE20-41C6-8C1C-408FE7B49A3A/Windows7-USB-DVD-Download-Tool-Installer-en-US.exe
+  sha256: 6b7cea4838d892a0a0f625bab2df3d378a035c365209db3c573253f037882229
