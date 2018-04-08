@@ -1,0 +1,7 @@
+id: thunderbird
+name: Thunderbird
+version: 4.42
+home: https://mozilla.org/
+installMethod: NSIS
+installers:
+- location: https://download.mozilla.org/?product=thunderbird-latest&os=win&lang=en-US
