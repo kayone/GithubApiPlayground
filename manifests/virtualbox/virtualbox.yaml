@@ -1,0 +1,10 @@
+id: virtualbox
+name: VirtualBox
+version: 5.2.8
+home: https://virtualbox.org/
+installMethod: Custom
+args:
+  silent: --silent
+installers:
+- location: https://download.virtualbox.org/virtualbox/5.2.8/VirtualBox-5.2.8-121009-Win.exe
+  sha256: bbd74e2d9717285863578ff728c16b411c88d1d0b63e3fd456cd09d2131635b3
