@@ -1,0 +1,7 @@
+id: skype
+name: Skype
+version: latest-classic
+home: https://www.skype.com/
+installMethod: MSI
+installers:
+- location: https://www.skype.com/go/getskype-msi
