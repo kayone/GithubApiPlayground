@@ -1,0 +1,8 @@
+id: seafile-client
+name: Seafile-Client
+version: 6.1.7
+home: https://seadrive.org/
+installMethod: MSI
+installers:
+- location: https://download.seadrive.org/seafile-6.1.7-en.msi
+  sha256: 1d8093362f62aa137aedc91c8d032f00656e8b0d9fcec7856e08dfbe70177d47
