@@ -1,0 +1,6 @@
+id: jetbrains-toolbox
+name: Jetbrains-Toolbox
+home: https://jetbrains.com/
+installMethod: NSIS
+installers:
+- location: https://data.services.jetbrains.com/products/download?code=TBA&platform=windows
