@@ -1,0 +1,6 @@
+id: voicemeeter
+name: Voicemeeter
+home: https://jcedeveloppement.com/
+installMethod: Custom
+installers:
+- location: https://vbaudio.jcedeveloppement.com/Download_CABLE/VoicemeeterSetup.exe
