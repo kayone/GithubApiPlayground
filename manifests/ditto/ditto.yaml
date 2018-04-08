@@ -4,8 +4,8 @@ version: 3.21.223.0
 repo: https://sourceforge.net/projects/ditto-cp/
 installMethod: Inno
 installers:
-- location: https://downloads.sourceforge.net/project/ditto-cp/Ditto/3.21.223.0/DittoSetup_3_21_223_0.exe
+- location: https://sourceforge.net/projects/ditto-cp/files/Ditto/3.21.223.0/DittoSetup_3_21_223_0.exe/download
   sha256: 4e5144030d99ae233ecf624f41d5100e533f383eb0dd8b82d87935d8d8a210c2
-- location: https://downloads.sourceforge.net/project/ditto-cp/Ditto/3.21.223.0/DittoSetup_64bit_3_21_223_0.exe
+- location: https://sourceforge.net/projects/ditto-cp/files/Ditto/3.21.223.0/DittoSetup_64bit_3_21_223_0.exe/download
   sha256: d43c57e2145d84539510bcb6467acc8c8b9e105402a24527bfc812bd2c3cb1fc
   architecture: x64
