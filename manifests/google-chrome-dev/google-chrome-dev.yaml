@@ -1,0 +1,7 @@
+id: google-chrome-dev
+name: Google Chrome Dev
+installMethod: MSI
+installers:
+- location: https://dl.google.com/tag/s/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi
+- location: https://dl.google.com/tag/s/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi
+  architecture: x64
