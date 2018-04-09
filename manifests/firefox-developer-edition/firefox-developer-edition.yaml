@@ -1,0 +1,9 @@
+id: firefox-developer-edition
+name: Firefox
+version: 18.01
+home: https://mozilla.org/
+installMethod: NSIS
+installers:
+- location: https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=win&lang=en-US
+- location: https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=win64&lang=en-US
+  architecture: x64
