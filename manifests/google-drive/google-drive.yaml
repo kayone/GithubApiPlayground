@@ -1,0 +1,5 @@
+id: google-drive
+name: Google Drive
+installMethod: MSI
+installers:
+- location: https://dl.google.com/drive/gsync_enterprise.msi
