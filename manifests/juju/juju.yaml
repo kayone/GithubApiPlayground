@@ -1,6 +1,6 @@
 id: juju
 name: Juju
-version: 2.5.1
+version: 2.0.0
 home: https://jujucharms.com/
 repo: https://github.com/juju/juju/
 license: GNU Affero General Public License v3.0
