@@ -1,0 +1,7 @@
+id: smoke-test-manifest
+name: Smoke Test App
+version: 1.2.3
+home: https://appget.net
+installMethod: Custom
+installers:
+- location: https://appget.net/211991a0-0b6a-4baa-afeb-a833fe0eacd5
